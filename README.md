@@ -53,7 +53,8 @@ QR_Decomposition(a)
 ```
 
 ## Output
-![image](https://github.com/Hemanath08/QRdecomposition/assets/151807176/23d0c11c-b162-45a1-8ee4-dd3513baa2eb)
+![image](https://github.com/Hemanath08/QRdecomposition/assets/151807176/33fe2ead-c475-4c36-859c-f6e68887e82a)
+
 
 
 ## Result
